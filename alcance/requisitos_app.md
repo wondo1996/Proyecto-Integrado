@@ -1,6 +1,6 @@
-## Requisitos de la Aplicación
+# Requisitos de la Aplicación
 
-# Tareas que mi proyecto llevará a cabo:
+## Tareas que mi proyecto llevará a cabo:
 
 - Permite logarse a los usuarios y consultar los talleres disponibles, así como las plazas disponibles, horarios, etc.
 - Los usuarios podrán solicitar la matriculación en alguno de los taleres.
